@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "grunt": "~0.4.1",
-        "js-beautify": "latest",
+        "js-beautify": "git://github.com/get-the-service/js-beautify",
         "lodash": "latest",
         "underscore.string": "latest"
     },
